@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\WANDATECH\\newswebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D81C2BBC-97A3-4D56-8B05-436A37ED9CDD}|newswebsite\\newswebsite.csproj|c:\\users\\dell\\desktop\\wandatech\\newswebsite\\newswebsite\\processes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D81C2BBC-97A3-4D56-8B05-436A37ED9CDD}|newswebsite\\newswebsite.csproj|solutionrelative:newswebsite\\processes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "processes.txt",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\WANDATECH\\newswebsite\\newswebsite\\processes.txt",
+              "RelativeDocumentMoniker": "newswebsite\\processes.txt",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\WANDATECH\\newswebsite\\newswebsite\\processes.txt",
+              "RelativeToolTip": "newswebsite\\processes.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-14T09:03:44.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+﻿step by step procedures to create a new repository and push the initial commit
+
+echo "# webportfolio" >> processes.txt
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Samiratou88/webportfolio.git
+git push -u origin main
+
+
